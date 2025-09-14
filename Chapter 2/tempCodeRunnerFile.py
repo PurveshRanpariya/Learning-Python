@@ -1,0 +1,1 @@
+b -= 3 # Decrement the value of b by 3 and then assign it to b
